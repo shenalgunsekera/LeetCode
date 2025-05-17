@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shenalgunsekera/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/shenalgunsekera/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shenalgunsekera/LeetCode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shenalgunsekera/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/shenalgunsekera/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/shenalgunsekera/LeetCode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
