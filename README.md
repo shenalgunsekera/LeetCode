@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shenalgunsekera/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shenalgunsekera/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/shenalgunsekera/LeetCode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/shenalgunsekera/LeetCode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shenalgunsekera/LeetCode/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shenalgunsekera/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shenalgunsekera/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
