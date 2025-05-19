@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shenalgunsekera/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/shenalgunsekera/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shenalgunsekera/LeetCode/tree/master/0075-sort-colors) |
+| [0500-keyboard-row](https://github.com/shenalgunsekera/LeetCode/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shenalgunsekera/LeetCode/tree/master/0001-two-sum) |
+| [0500-keyboard-row](https://github.com/shenalgunsekera/LeetCode/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shenalgunsekera/LeetCode/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/shenalgunsekera/LeetCode/tree/master/0500-keyboard-row) |
 ## Simulation
 |  |
 | ------- |
