@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shenalgunsekera/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shenalgunsekera/LeetCode/tree/master/0075-sort-colors) |
 | [0500-keyboard-row](https://github.com/shenalgunsekera/LeetCode/tree/master/0500-keyboard-row) |
+| [3321-type-of-triangle](https://github.com/shenalgunsekera/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shenalgunsekera/LeetCode/tree/master/0075-sort-colors) |
+| [3321-type-of-triangle](https://github.com/shenalgunsekera/LeetCode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shenalgunsekera/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/shenalgunsekera/LeetCode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/shenalgunsekera/LeetCode/tree/master/0412-fizz-buzz) |
+| [3321-type-of-triangle](https://github.com/shenalgunsekera/LeetCode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
