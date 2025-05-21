@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shenalgunsekera/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/shenalgunsekera/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/shenalgunsekera/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shenalgunsekera/LeetCode/tree/master/0075-sort-colors) |
 | [0500-keyboard-row](https://github.com/shenalgunsekera/LeetCode/tree/master/0500-keyboard-row) |
 | [3321-type-of-triangle](https://github.com/shenalgunsekera/LeetCode/tree/master/3321-type-of-triangle) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shenalgunsekera/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shenalgunsekera/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0500-keyboard-row](https://github.com/shenalgunsekera/LeetCode/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shenalgunsekera/LeetCode/tree/master/0412-fizz-buzz) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shenalgunsekera/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
