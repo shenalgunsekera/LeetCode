@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shenalgunsekera/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shenalgunsekera/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shenalgunsekera/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/shenalgunsekera/LeetCode/tree/master/0231-power-of-two) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shenalgunsekera/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/shenalgunsekera/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shenalgunsekera/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shenalgunsekera/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
